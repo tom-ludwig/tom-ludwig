@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @activcoding
 - 👀 I’m interested in coding and playing the guitar
 - 🌱 I’m currently learning Swift/SwiftUI, Python, Java, C++, JavaScript  
-// - 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a nice littel Swift Project
 - 📫 How to reach me: tommludwig@icloud.com
 
 <!---
