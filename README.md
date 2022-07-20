@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @activcoding
+- 👋 Hi, I’m @activecoding
 - 👀 I’m interested in coding and playing the guitar
 - 🌱 I’m currently learning Swift/SwiftUI, Python, Java, C++, JavaScript  
 - 💞️ I’m looking to collaborate on a nice littel Swift Project
