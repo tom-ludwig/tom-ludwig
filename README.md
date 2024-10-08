@@ -1,11 +1,11 @@
 ```cpp
 class Tom {
     std::string name = "Tom";
-    std::string nickname = "@activcoding";
+    std::string nickname = "@activecoding";
     std::string email = "tomludwig@duck.com";
     std::string timeZone = "CEST";
     std::string quoteOfTheDay = "There's a world outside of coding. - Bjarne Stroustrup";
-    std::vector<std::string> favoriteLanguages = {"Swift", "C++", "GO", "JavaScript"};
+    std::vector<std::string> favoriteLanguages = {"Swift", "C++", "GO", "Rust"};
     std::vector<std::string> hobbies = {"Playing guitar", "Coding", "Running", "Cycling"};
     
     
